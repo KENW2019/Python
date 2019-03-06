@@ -1,1 +1,3 @@
-********************
+static const TsCANApp_h_TxCanSigIf CtCANApp_h_TxCanSigIf[2u] =
+{
+	(TpCANApp_w_TxCanSigIf)Rte_Write_Pp_TxSignal_EHU_BeepSrcSet_DeEHU_BeepSrcSet, CeCANApp_u_TxCanSigSize_OneByte,
