@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 with open('/home/k/share/Python/test.c', 'w') as f:
 	#print(f.read())
 	#for line in f.readlines():
