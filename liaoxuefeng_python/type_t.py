@@ -1,5 +1,6 @@
 age = input('hi,please input your age -->:')
-if age >= 18:
+
+if int(age) >= 18:
     print('adult')
 else:
     print('teenager')
