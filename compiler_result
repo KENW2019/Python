@@ -1,0 +1,80 @@
+ *---------------------------------------------------------------*
+ *                  VEHICLE INTERFACE                *  BJEV  *
+ *                  =======================         *------------*
+ *                                                               *
+ *  Use the following parameters:                                *
+ *  debug      use the RS232-Interface for debugging             *
+ *  NOLINT     compile without Lint preprocessor                 *
+ *  LINT       compile with Lint preprocessor for the project    *
+ *    default: compile with Lint preprocessor for each file      *
+ *             for each file                                     *
+ *                                                               *
+ *  LOC        Lines of Code analysis  - lines.loc               *
+ *  METRIKDB   lint file for METRIK_DB - mdb_LintWarn.csv        *
+ *  MEMORY     enables the perl script memusage850.pl to get     *
+ *             the data of the used memory                       *
+ *             - is also set by use of "metrikdb" !              *
+ *                                                               *
+ *  B0         compile for HW-Muster B0                          *
+ *  B1         compile for HW-Muster B1                          *
+ *  C0         compile for HW-Muster C0                          *
+ *  D0         compile for HW-Muster D0  (default)               *
+ *                                                               *
+ *                      AutoSAR OS (default)                                      *
+ *                                                               *
+ *  once       Build will be stopped on error                    *
+ *                                                               *
+ *  version_13354I  Force build 13354I  version                  *
+ *  version_I       Force build      I  version                  *
+ *                                                                                                                        *
+ *---------------------------------------------------------------*
+ *---------------------------------------------------------------*
+A subdirectory or file BJEV already exists.
+**** generate version.h ****
++++++++++7+++++++++++     Build version: 19104A
+SUCCESSFUL generation of file: BJEV\version.h
+compiling ./Swc/CanApplication.c
+"./Swc/CanApplication.c", line 5807: error #169: expected a declaration
+        {
+        ^
+
+"./Swc/CanApplication.c", line 5815: error #77-D: this declaration has no
+          storage class or type specifier
+        }Type_CanRxIpcData;
+         ^
+
+"./Swc/CanApplication.c", line 6001: warning #174-D: expression has no effect
+        Type_CanRxIpcData Le_s_CanRxIpcData;
+        ^
+
+"./Swc/CanApplication.c", line 6001: error #65: expected a ";"
+        Type_CanRxIpcData Le_s_CanRxIpcData;
+                          ^
+
+"./Swc/CanApplication.c", line 6002: error #268: declaration may not appear
+          after executable statement in block
+      uint8 Le_u_CanRxIpcDataLen;
+      ^
+
+"./Swc/CanApplication.c", line 6003: error #268: declaration may not appear
+          after executable statement in block
+      uint8 Le_u_Index;
+      ^
+
+"./Swc/CanApplication.c", line 6004: error #268: declaration may not appear
+          after executable statement in block
+      uint8 Le_u_Ret;
+      ^
+
+"./Swc/CanApplication.c", line 6006: error #20: identifier "Le_s_CanRxIpcData"
+          is undefined
+      Le_s_CanRxIpcData.CanMsgHeader = 0x02u;
+      ^
+
+"./Swc/CanApplication.c", line 5825: warning #550-D: variable
+          "CAN_IVI_IPC_ChanFlowCntrlState" was set but never used
+    static uint8 CAN_IVI_IPC_ChanFlowCntrlState = 0u;
+                 ^
+
+make: *** [.\Base\src\makefile:676: BJEV/CanApplication.o] Error 1
+Press any key to continue . . .
