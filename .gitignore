@@ -1,4 +1,5 @@
 # Ignore *.bak in this directory
 CANGen_Appl
 CANApp
+liaoxuefeng_python/__pycache__/
 
