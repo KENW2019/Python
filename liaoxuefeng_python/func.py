@@ -2,6 +2,7 @@ from func_myabs import my_abs
 from func_nop import nop
 from func_move import move
 from func_quadratic import quadratic
+from func_power import power
 
 '''print(my_abs(-1,2))
 print(nop())'''
@@ -25,8 +26,15 @@ print(x,y)
 '''
 
 ''' test func quadratic'''
+'''
 print('quadratic(2, 3, 1) =', quadratic(2, 3, 1))
 print('quadratic(1, 3, -4) =', quadratic(1, 3, -4))
+'''
+
+''' test func power '''
+print(power(2))
+print(power(2,3))
+print(power(3,3))
 
 
 
