@@ -1,3 +1,4 @@
+'''
 classmates = ['Michael', 'Bob', 'Tracy']
 len(classmates)
 classmates[0]
@@ -41,3 +42,17 @@ elif age >= 18:
     print(age)
 else:
     print('kid')
+'''
+
+
+height = 1.7
+weight = 75
+bmi = weight/(height*height)
+if bmi < 18.5:
+    print("too light")
+elif bmi > 18.5 and bmi < 25:
+    print("normal")
+else:
+    print("fat")
+
+

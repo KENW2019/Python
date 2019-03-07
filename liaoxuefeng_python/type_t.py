@@ -1,13 +1,16 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-'''
+
 age = input('hi,please input your age -->:')
 
 if int(age) >= 18:
+#if age >= 18:
     print('adult')
 else:
     print('teenager')
+
+
 '''
 print('中文测试')
 
@@ -44,3 +47,4 @@ s1 = 72
 s2 = 85
 r = ((85-72)/72)*100
 print('%.1f%%' % r)
+'''
