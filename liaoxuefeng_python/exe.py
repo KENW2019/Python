@@ -4,6 +4,7 @@ from func_move import move
 from func_quadratic import quadratic
 from func_power import power
 from func_variablePara import calc
+from func_dictPara import person
 
 '''print(my_abs(-1,2))
 print(nop())'''
@@ -47,12 +48,17 @@ print(calc((1, 3, 5, 7)))
 '''
 
 ''' variable para V2 '''
+'''
 print(calc(1,2,3))
 print(calc(1, 3, 5, 7))
 print(calc())
 
 nums = [1, 2, 3]
 print(calc(*nums))
+'''
+
+''' func_dictPara'''
+person('Michael', 30)
 
 
 
