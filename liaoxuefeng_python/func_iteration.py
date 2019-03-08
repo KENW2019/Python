@@ -1,5 +1,5 @@
 
-from collections import Iterable
+#from collections import Iterable
 
 '''
 print(isinstance('abc',Iterable))
@@ -15,10 +15,10 @@ for x,y in [(1,1),(2,4),(3,9)]:
 
 def findMinAndMax(L):
     if len(L) == 0:
-        return (None,None)
+        return (None, None)
     
     if len(L) == 1:
-        return (L[0],L[0])
+        return (L[0], L[0])
     
     if len(L) >= 2:
         min = L[0]

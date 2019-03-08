@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c91f8b47-6178-4597-b12a-f61d7b5c1215" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/c_cpp_properties.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/c_cpp_properties.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/compiler_result" beforeDir="false" afterPath="$PROJECT_DIR$/compiler_result" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/liaoxuefeng_python/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/liaoxuefeng_python/.vscode/launch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/liaoxuefeng_python/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/liaoxuefeng_python/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/liaoxuefeng_python/dict_set.py" beforeDir="false" afterPath="$PROJECT_DIR$/liaoxuefeng_python/dict_set.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/liaoxuefeng_python/exe.py" beforeDir="false" afterPath="$PROJECT_DIR$/liaoxuefeng_python/exe.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/liaoxuefeng_python/func_dictPara.py" beforeDir="false" afterPath="$PROJECT_DIR$/liaoxuefeng_python/func_dictPara.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/liaoxuefeng_python/func_fact.py" beforeDir="false" afterPath="$PROJECT_DIR$/liaoxuefeng_python/func_fact.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/liaoxuefeng_python/func_iteration.py" beforeDir="false" afterPath="$PROJECT_DIR$/liaoxuefeng_python/func_iteration.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/liaoxuefeng_python/func_move.py" beforeDir="false" afterPath="$PROJECT_DIR$/liaoxuefeng_python/func_move.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/liaoxuefeng_python/func_myabs.py" beforeDir="false" afterPath="$PROJECT_DIR$/liaoxuefeng_python/func_myabs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/liaoxuefeng_python/func_nameDictPara.py" beforeDir="false" afterPath="$PROJECT_DIR$/liaoxuefeng_python/func_nameDictPara.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/liaoxuefeng_python/func_nop.py" beforeDir="false" afterPath="$PROJECT_DIR$/liaoxuefeng_python/func_nop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/liaoxuefeng_python/func_power.py" beforeDir="false" afterPath="$PROJECT_DIR$/liaoxuefeng_python/func_power.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/liaoxuefeng_python/func_quadratic.py" beforeDir="false" afterPath="$PROJECT_DIR$/liaoxuefeng_python/func_quadratic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/liaoxuefeng_python/func_trim_slice.py" beforeDir="false" afterPath="$PROJECT_DIR$/liaoxuefeng_python/func_trim_slice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/liaoxuefeng_python/func_variaParaTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/liaoxuefeng_python/func_variaParaTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/liaoxuefeng_python/func_variablePara.py" beforeDir="false" afterPath="$PROJECT_DIR$/liaoxuefeng_python/func_variablePara.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/liaoxuefeng_python/io_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/liaoxuefeng_python/io_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/liaoxuefeng_python/list_tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/liaoxuefeng_python/list_tuple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/liaoxuefeng_python/type_t.py" beforeDir="false" afterPath="$PROJECT_DIR$/liaoxuefeng_python/type_t.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/liaoxuefeng_python/while.py" beforeDir="false" afterPath="$PROJECT_DIR$/liaoxuefeng_python/while.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonStudyData/Python int与string之间的转化 - Andy Niu - 博客园.mhtml" beforeDir="false" afterPath="$PROJECT_DIR$/pythonStudyData/Python int与string之间的转化 - Andy Niu - 博客园.mhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonStudyData/git status 显示中文乱码 - WSYW126的博客 - CSDN博客.mhtml" beforeDir="false" afterPath="$PROJECT_DIR$/pythonStudyData/git status 显示中文乱码 - WSYW126的博客 - CSDN博客.mhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/t1.py" beforeDir="false" afterPath="$PROJECT_DIR$/t1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.c" beforeDir="false" afterPath="$PROJECT_DIR$/test.c" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/liaoxuefeng_python/func_iteration.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/liaoxuefeng_python/func_iteration.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="liaoxuefeng_python" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="Z:\Python\liaoxuefeng_python" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.exe">
+    <configuration name="exe" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/liaoxuefeng_python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/liaoxuefeng_python/exe.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="func_iteration" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/liaoxuefeng_python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/liaoxuefeng_python/func_iteration.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.exe" />
+        <item itemvalue="Python.func_iteration" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c91f8b47-6178-4597-b12a-f61d7b5c1215" name="Default Changelist" comment="" />
+      <created>1552061568613</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552061568613</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22523117" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/liaoxuefeng_python/func_iteration.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
