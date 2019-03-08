@@ -5,6 +5,8 @@ from func_quadratic import quadratic
 from func_power import power
 from func_variablePara import calc
 from func_dictPara import person
+from func_nameDictPara import person
+
 
 '''print(my_abs(-1,2))
 print(nop())'''
@@ -58,12 +60,18 @@ print(calc(*nums))
 '''
 
 ''' func_dictPara'''
+'''
 person('Michael', 30)
 person('Bob', 35, city='Beijing')
 person('Adam', 45, gender='M', job='Engineer')
 
 extra = {'city': 'Beijing', 'job': 'Engineer'}
 person('dapei','34',**extra)
+'''
+
+'''func_nameDictPara'''
+#person('Jack', 24, city='Beijing', job='Engineer')
+person('Jack', 24,  job='Engineer')
 
 
 
