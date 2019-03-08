@@ -59,6 +59,13 @@ print(calc(*nums))
 
 ''' func_dictPara'''
 person('Michael', 30)
+person('Bob', 35, city='Beijing')
+person('Adam', 45, gender='M', job='Engineer')
+
+extra = {'city': 'Beijing', 'job': 'Engineer'}
+person('dapei','34',**extra)
+
+
 
 
 
