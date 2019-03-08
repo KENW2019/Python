@@ -8,6 +8,8 @@ from func_dictPara import person
 from func_nameDictPara import person
 from func_variaParaTest import product
 from func_fact import fact
+from func_trim_slice import trim
+from func_iteration import findMinAndMax
 
 
 '''print(my_abs(-1,2))
@@ -86,8 +88,39 @@ print('product(5, 6, 7, 9) =', product(5, 6, 7, 9))
 '''
 
 ''' func fact'''
+'''
 print(fact(100))
+'''
 
+''' func trim'''
+'''
+if trim('hello  ') != 'hello':
+    print('测试失败!')
+elif trim('  hello') != 'hello':
+    print('测试失败!')
+elif trim('  hello  ') != 'hello':
+    print('测试失败!')
+elif trim('  hello  world  ') != 'hello  world':
+    print('测试失败!')
+elif trim('') != '':
+    print('测试失败!')
+elif trim('    ') != '':
+    print('测试失败!')
+else:
+    print('测试成功!')
+'''
+
+''' test findMinAndMax '''
+if findMinAndMax([]) != (None, None):
+    print('测试失败!')
+elif findMinAndMax([7]) != (7, 7):
+    print('测试失败!')
+elif findMinAndMax([7, 1]) != (1, 7):
+    print('测试失败!')
+elif findMinAndMax([7, 1, 3, 9, 5]) != (1, 9):
+    print('测试失败!')
+else:
+    print('测试成功!')
 
 
 
