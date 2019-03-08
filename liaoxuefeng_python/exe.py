@@ -6,6 +6,7 @@ from func_power import power
 from func_variablePara import calc
 from func_dictPara import person
 from func_nameDictPara import person
+from func_variaParaTest import product
 
 
 '''print(my_abs(-1,2))
@@ -70,8 +71,17 @@ person('dapei','34',**extra)
 '''
 
 '''func_nameDictPara'''
+'''
 #person('Jack', 24, city='Beijing', job='Engineer')
 person('Jack', 24,  job='Engineer')
+'''
+
+'''varia para test'''
+print('product(5) =', product(5))
+print('product(5, 6) =', product(5, 6))
+print('product(5, 6, 7) =', product(5, 6, 7))
+print('product(5, 6, 7, 9) =', product(5, 6, 7, 9))
+
 
 
 
