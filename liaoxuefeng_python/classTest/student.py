@@ -1,6 +1,6 @@
 
 class student(object):
-    def __init__(self,name,score):
-        self.name = name
-        self.score = score
+    def __init__(self,x,y):
+        self.name = x
+        self.score = y
 
