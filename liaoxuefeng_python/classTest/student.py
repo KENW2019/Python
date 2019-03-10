@@ -17,9 +17,10 @@ class student(object):
 '''
 
 class student(object):
-    def __init__(self,x,y):
+    def __init__(self,x,y,z):
         self.__name = x
         self.__score = y
+        self.__gender = z
 
     def print_score(self):
         print('%s: %s' % (self.__name, self.__score))
@@ -39,9 +40,14 @@ class student(object):
         return self.__score
 
     def set_score(self, int_latestValue):
-        self.__score = int_latestValue
+        if 0 <= int_latestValue <= 100:
+            self.__score = int_latestValue
+        else:
+            raise ValueError('bad score')
 
-
-
-
+    def get_gender(self):
+        return self.__gender
+    
+    def set_gender(self, str_gender):
+        self.__gender = str_gender
 

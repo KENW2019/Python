@@ -39,10 +39,38 @@ print(kenw.get_name())
 print(kenw.get_score())
 '''
 
+'''
 kenw = student('wang dapei',99)
 print(kenw.get_score())
 kenw.set_score(43)
 print(kenw.get_score())
+#kenw.set_score(101)
+'''
+
+'''
+kenw = student('wang dapei',99)
+print(kenw._student__name)
+'''
+
+'''
+kenw = student('wang dapei',99)
+print(kenw.get_name())
+kenw.__name = 'xing yani'
+print(kenw.__name)
+print(kenw.get_name())
+'''
+
+bart = student('dapei','73','male')
+if bart.get_gender() != 'male':
+    print('测试失败!')
+else:
+    bart.set_gender('female')
+    if bart.get_gender() != 'female':
+        print('测试失败!')
+    else:
+        print('测试成功!')
+
+
 
 
 
