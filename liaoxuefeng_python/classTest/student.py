@@ -16,11 +16,16 @@ class student(object):
             return 'C'
 '''
 
+
 class student(object):
-    def __init__(self,x,y,z):
+    class_name = 'this class type for sutdent'
+    class_atrribute_count = 0
+
+    def __init__(self, x, y, z):
         self.__name = x
         self.__score = y
         self.__gender = z
+        student.class_atrribute_count += 1
 
     def print_score(self):
         print('%s: %s' % (self.__name, self.__score))
