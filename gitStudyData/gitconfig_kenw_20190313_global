@@ -7,3 +7,8 @@
 	lg = log --color --graph --pretty=format:'%Cred%h%Creset - %s %C(yellow)(%cr) %C(bold blue)<%an>%Creset %C(red)%d%Creset' --abbrev-commit
 	lg1 = log --color --graph --pretty=format:'%Cred%h%Creset - %s %C(yellow)(%cr) %C(bold blue)<%an>%Creset  %C(red)%d%Creset ' --abbrev-commit
 	st = status
+
+git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset - %s %C(yellow)(%cr) %C(bold blue)<%an>%Creset %C(red)%d%Creset' --abbrev-commit"
+
+git config --global alias.st "status"
+
