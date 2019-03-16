@@ -1,10 +1,18 @@
 
-file_handler = open('/home/k/LinuxShare/Python/liaoxuefeng_python/io_test/GB2312.txt', 'r', encoding = "gbk")
+file_handler = open('/home/k/LinuxShare/Python/liaoxuefeng_python/io_test/test.txt', 'r')
+
+'''
+file_handler.write("append my name:wang dapei")
+'''
+
+
 
 
 str2 = file_handler.read()
 
 print(str2)
+
+
 
 
 '''
