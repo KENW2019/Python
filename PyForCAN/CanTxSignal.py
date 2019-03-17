@@ -1,18 +1,12 @@
 
 import re
 
-file_can_tx_signals_gen = open(r'L:\Python\CANGen_Appl\can_tx_signals_gen.h','r')
-file_signal_list = open(r'L:\Python\PyForCAN\signal_list.txt','a')
+file_can_tx_signals_gen = open(r'Y:\Python\CANGen_Appl\can_tx_signals_gen.h','r')
+file_signal_list = open(r'Y:\Python\PyForCAN\signal_list.txt','a')
 
 
 search_cnt = 0
 
-'''
-	SIGNALID_EHU_BeepSrcSet_oICC_0x44_oIBUS_94c0ca5d_Tx,
-	SIGNALID_EHU_FaderSet_oICC_0x44_oIBUS_0d76e871_Tx,
-	SIGNALID_EHU_HiFrqAudioSet_oICC_0x44_oIBUS_61e5095f_Tx,
-	SIGNALID_EHU_LeRiBalSet_oICC_0x44_oIBUS_26906d71_Tx,
-'''
 
 for line in file_can_tx_signals_gen.readlines():  
     #result = re.search('SIGNALID_.*?_Tx',line)
@@ -22,7 +16,9 @@ for line in file_can_tx_signals_gen.readlines():
         search_cnt += 1
         print(search_cnt)
         #print(result.span())
-        file_signal_list.write(result.group(1) + '\n')
+        file_signal_list.write(r'(TpCANApp_w_TxCanSigIf)Rte_Write_Pp_TxSignal_' + \
+                result.group(1) + '_De'+ result.group(1) + ',' + 'sizeof(Dt'+ result.group(1) + \
+                         ')' + ',' +'\n')
 
 
 file_can_tx_signals_gen.close()
