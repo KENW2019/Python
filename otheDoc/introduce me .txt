@@ -1,0 +1,5 @@
+i am dapei.
+now, I am working on BJEV project and responsible for CAN and diagnostic domain include can com, diag dcm ,diag dem and some swc.
+and I am also responsible for the CANApplication SWC that be used to forward CAN message to SOC side by Ipc.
+Actually,I think that the technicality of these modules is not very complex, but the workload is very huge, so a new guys shanyou joined us last week.
+He and me will work on CAN and Diagnostic & CANapplication together in the future.
