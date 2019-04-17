@@ -1,0 +1,12 @@
+[user]
+	name = wang dapei
+	email = dapei.wang@harman.com
+[core]
+	autocrlf = true
+	excludesfile = C:\\Users\\DapWang\\Documents\\gitignore_global.txt
+[alias]
+	lg = log --color --pretty=format:'%Cred%h%Creset - %C(bold blue)<%an>%Creset %s %C(yellow)(%cr) %C(red)%d%Creset' --abbrev-commit
+	lgg = log --color --graph --pretty=format:'%Cred%h%Creset - %C(bold blue)<%an>%Creset %s %C(yellow)(%cr) %C(red)%d%Creset' --abbrev-commit
+	lg1 = log --color --graph --pretty=format:'%Cred%h%Creset - %s %C(yellow)(%cr) %C(bold blue)<%an>%Creset  %C(red)%d%Creset ' --abbrev-commit
+	lg2 = log --color --graph --pretty=format:'%Cred%h%Creset - %s %C(yellow)(%cr) %C(bold blue)<%an>%Creset %C(red)%d%Creset' --abbrev-commit
+    st = status
